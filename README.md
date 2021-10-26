@@ -10,10 +10,10 @@ while moment helps us with moment is used for time keeping and time setting.
 
 ### Preview
 
-(Github deployed page)[https://mikeymizell.github.io/Daily-Planner/]
+[Github deployed page](https://mikeymizell.github.io/Daily-Planner/)
 
-!(Main page screenshot)[/assets/image/main-ss.png]
+![Main page screenshot](/assets/image/main-ss.png)
 
-!(LocalStorage)[/assets/image/console-ss.png]
+![LocalStorage](/assets/image/console-ss.png)
 
-!(Edit form)[/assets/image/edit-ss.png]
+![Edit form](/assets/image/edit-ss.png)
